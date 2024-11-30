@@ -1,0 +1,9 @@
+{ 
+"editor.defaultFormatter": "esbenp.prettier-vscode",
+    "eslint.enable": false,
+"prettier.enable": false,
+
+ "[typescript]": {
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
+}

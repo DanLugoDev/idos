@@ -1,0 +1,24 @@
+{
+  "author": "",
+  "description": "Internet Dos (Internet 2)",
+  "devDependencies": {
+    "typescript": "^5.6.2"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "license": "ALL RIGHTS RESERVED",
+  "main": "api.js",
+  "name": "idos",
+  "prettier": {
+    "arrowParens": "avoid",
+    "semi": false,
+    "singleQuote": true,
+    "trailingComma": "none"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "version": "1.0.0"
+}
